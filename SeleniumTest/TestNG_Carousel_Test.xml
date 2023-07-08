@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MonsterLabAssessment">
+<test name="To check if each carousels have 15 elements">
+    <classes>
+        <class name ="TestCase.TestCase_01_carousel_element_count"></class>
+    </classes>
+</test>
+</suite>
